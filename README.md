@@ -1,4 +1,4 @@
-Minimal demo for https://github.com/dotnet/aspnetcore/issues/46859#issuecomment-1478807516
+Minimal demo for https://github.com/dotnet/aspnetcore/issues/46859
 
 Showing ASP.net Razor pages Dev error page  bug
 
